@@ -1,4 +1,4 @@
-> > Computer Software Engineering student
+>  Computer Software Engineering student
 > > Passionate about Machine Learning and innovation
 > > > Aiming to study abroad and pursue global opportunities
 
